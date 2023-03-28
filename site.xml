@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="SYSTraveler Updates" url="https://systraveler.github.io/updates">
+      Systravelers Repositories
+   </description>
+   <category-def name="core" label="Core"/>
+   <category-def name="hotels" label="Hotels"/>
+   <category-def name="restaurants" label="Restaurants"/>
+   <category-def name="trips" label="Trips"/>
+   <category-def name="airlines" label="Airlines"/>
+   <category-def name="agencies" label="Agencies"/>
+   <category-def name="operators" label="Operators"/>
+</site>
